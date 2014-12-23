@@ -1,0 +1,17 @@
+{
+    "name": "easybib/silex-hal-provider",
+    "description": "Silex provider for the nocarrier/hal library",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Nils Adermann",
+            "email": "naderman@naderman.de"
+        }
+    ],
+    "require": {
+        "nocarrier/hal": "~0.9.10"
+    },
+    "autoload": {
+        "psr-4": {"EasyBib\\Silex\\HAL\\": "src/"}
+    }
+}
