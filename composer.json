@@ -1,7 +1,7 @@
 {
     "name": "easybib/silex-hal-provider",
     "description": "Silex provider for the nocarrier/hal library",
-    "license": "BSD-2-Clause",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Nils Adermann",
