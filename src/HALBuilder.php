@@ -1,14 +1,12 @@
 <?php
-/*
+/**
  * This file is part of easybib/generator-processes
+ * 
+ * Copyright (c) 2016 Chegg Inc.
+ * Apache-2.0 licensed, see LICENSE.txt file for details.
  *
- * (c) Imagine Easy Solutions, LLC
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- *
- * @license  BSD-2-Clause
- * @link     http://www.imagineeasy.com
+ * @license  Apache-2.0
+ * @link     http://www.apache.org/licenses/LICENSE-2.0
  */
 
 namespace EasyBib\Silex\HAL;
